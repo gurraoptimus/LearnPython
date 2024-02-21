@@ -31,5 +31,5 @@ odd_numbers = []
     #filter list and add odd numbers to new list
 for value in sorted_list:
         odd_numbers.append(value)
-    if  value%2 != 0:
+    if value%2 != 0:
  print ('The greatest odd number you typed was:'), max(odd_numbers)
