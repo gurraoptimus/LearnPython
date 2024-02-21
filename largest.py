@@ -5,8 +5,8 @@
         #  max_num = i
 #  print(a.index(max_num))
 
-a = (1, 2, 3, 9)
-    print(max(a))
+    a = (1, 2, 3, 9)
+print(max(a))
 
 # x = max("Oscar","Ozzle","MagicOA")
 # print(x)
