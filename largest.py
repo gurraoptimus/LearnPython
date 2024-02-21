@@ -8,6 +8,8 @@
 # a = (1, 2, 3, 9)
 # print(max(a))
 
-x = max("Oscar","Ozzle","MagicOA")
+# x = max("Oscar","Ozzle","MagicOA")
+# print(x)
 
-print(x)
+#Ask for number input
+first =
