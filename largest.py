@@ -11,3 +11,9 @@
 # x = max("Oscar","Ozzle","MagicOA")
 # print(x)
 
+#tl = ["oscar","gurra","stoffe"]
+#for name in tl:
+#   print(name)
+
+#for p in range(0,102,2):
+    #print("Number"+ str(p))

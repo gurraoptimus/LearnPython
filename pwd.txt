@@ -1,0 +1,5 @@
+import random
+
+pwd="abcdefgijklmnopqrstuvw123456789_%&#*"
+
+ld= input("pwd?:")
