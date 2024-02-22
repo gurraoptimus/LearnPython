@@ -20,5 +20,6 @@
 
 rs = 0
 for g in range(1001):
-    rs += g
+  if g %2==1:
+        rs += g
 print(rs)
