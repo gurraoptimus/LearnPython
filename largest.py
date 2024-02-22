@@ -17,3 +17,8 @@
 
 #for p in range(0,102,2):
     #print("Number"+ str(p))
+
+rs = 0
+for g in range(1001):
+    rs += g
+print(rs)
