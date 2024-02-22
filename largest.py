@@ -23,3 +23,9 @@
  # if g %2==1:
 #       rs += g
 #print(rs)
+
+import random
+list=[]
+for x in range(1000):
+    list.append((random.randint(0,10))
+print(x)
