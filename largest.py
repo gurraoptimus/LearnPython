@@ -25,6 +25,16 @@
 #print(rs)
 
 import random
+res=[0,0,0,0,0,0,0,0,0,0]
+list=[5]
+for f in list:
+        res[f]+=1
+print(res)
+#for x in range(1000):
+   # list.append(random.randint(0,10))
+
+
+import random
 list=[]
 for x in range(1000):
     list.append(random.randint(0,10))
