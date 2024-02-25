@@ -11,5 +11,5 @@ for i in range(ld):
 if random.randint(0,1)==0:
         sl_tk = sl_tk.upper()
 
-    passwd += sl_tk
+passwd += sl_tk
 print(passwd)
