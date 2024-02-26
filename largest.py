@@ -24,18 +24,29 @@
 #       rs += g
 #print(rs)
 
-import random
-res=[0,0,0,0,0,0,0,0,0,0]
-list=[5]
-for f in list:
-        res[f]+=1
-print(res)
+# import random
+# res=[0,0,0,0,0,0,0,0,0,0]
+#list=[5]
+#for f in list:
+#        res[f]+=1
+#print(res)
 #for x in range(1000):
    # list.append(random.randint(0,10))
 
 
-import random
-list=[]
-for x in range(1000):
-    list.append(random.randint(0,10))
-print(list)
+#import random
+#list=[]
+#for x in range(1000):
+#    list.append(random.randint(0,10))
+#print(list)
+
+# python Classes
+class Person:
+    def __init__(self, name):
+        self.name = name
+            
+    def say_hello(self):
+        print("hello {}!".format(self.name))
+
+gurraoptimus = Person('GurraOptimus')
+gurraoptimus.say_hello()
