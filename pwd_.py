@@ -1,6 +1,6 @@
 import random
 
-pwd = "abcdefgijklmnopqrstuvw123456789_%&#*"
+pwd = "abcdefgijklmnopqrstuvw123456789-_=%&#*"
 
 ld = input("How long do you want the password to be?: ")
 ld = int(ld)
