@@ -15,7 +15,7 @@ sorted_list = [first, second, third, fourth, fifth, sixth, seventh, eighth, nint
 dd_numbers = []
 
     #filter list and add odd numbers to new list
-    for value in sorted_list:
-        if value%2 != 0:
+for value in sorted_list:
+    if value%2 != 0:
     odd_numbers.append(value) 
 print ('The greatest odd number you typed was:'), max(odd_numbers)
