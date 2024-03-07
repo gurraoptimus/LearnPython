@@ -13,6 +13,6 @@ y_points = []
 for xp in x_points:
     y_points.append(kvadrat(xp))
 
-    plt.plot(x_points, y_points)
-    plt.scatter(x_points, y_points)
-    plt.show()
+plt.plot(x_points, y_points)
+plt.scatter(x_points, y_points)
+plt.show()
