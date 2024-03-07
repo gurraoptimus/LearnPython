@@ -11,8 +11,7 @@ ninth = int(raw_input('Please type a number: '))
 tenth = int(raw_input('Please type a number: '))
 
 #create a list for variables
-sorted_list = [first, second, third, fourth, fifth, sixth, seventh, 
-              # eighth, ninth, tenth]
+sorted_list = [first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth]
 dd_numbers = []
 
     #filter list and add odd numbers to new list
