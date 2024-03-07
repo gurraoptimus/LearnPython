@@ -1,6 +1,6 @@
-def belle(numbers)
+def belle(numbers):
     # Kollar att numbers är exakt 3 tal
-    if len(numbers) != 3
+    if len(numbers) != 3:
         return "Listan måste ha tre tal!"
 
     # Hittar den största siffran
@@ -8,5 +8,5 @@ def belle(numbers)
     return max_number
 
 numbers=[94,96,23]
-largest_number= find_largest_number(numbers)
+largest_number = belle(numbers)
 print("Det största talet är:", largest_number)
