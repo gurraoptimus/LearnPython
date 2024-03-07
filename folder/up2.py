@@ -10,5 +10,5 @@ def uppgift2(name, last_name, age):
         file.close
 
 if __name__ == "__main__":
-    uppgift2()
+    uppgift2(age)
     
