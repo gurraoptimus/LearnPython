@@ -12,7 +12,7 @@ tenth = int(input('Please type a number: '))
 
 #create a list for variables
 sorted_list = [first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth]
-dd_numbers = []
+odd_numbers = []
 
     #filter list and add odd numbers to new list
 for value in sorted_list:
