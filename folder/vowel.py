@@ -10,5 +10,5 @@ class msgWriter(object):
         self.file.close()
 
     #using with statement with MessageWriter
-    with msgWriter("my_file.txt") as xfile:
+with msgWriter("my_file.txt") as xfile:
         xfile.Write("this is a txt file")
