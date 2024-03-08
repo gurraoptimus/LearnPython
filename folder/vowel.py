@@ -13,5 +13,5 @@ class MsgWriter(object):
 
 # using with statement with MessageWriter
 
-with MsgWriter('my_file.txt') as xfile:
-	xfile.write('hello world')
+with MsgWriter('my_file.md') as xfile:
+	xfile.write('# hello world')
