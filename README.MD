@@ -1,2 +1,2 @@
-# PyCorse
+# PyCourse
 ## [Sorce code](folder)
