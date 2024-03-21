@@ -1,4 +1,4 @@
-import padnas as pd
+import pandas as pd
 import openpyxl
 import requests as re
 from bs4 import BeautifulSoup as bs
